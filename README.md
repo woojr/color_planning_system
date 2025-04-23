@@ -8,5 +8,6 @@ This project explores how perceptual attributes of color relate to human emotion
 
 ## 📄 Project Paper
 
-The full project paper is available in the [`main/`](main/) folder.  
-🔗 [Download Paper_WJ.pdf](main/Paper_WJ.pdf)
+The full project paper is available here:  
+🔗 [Download Paper_WJ.pdf](Paper_WJ.pdf)
+

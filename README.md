@@ -5,3 +5,7 @@ This repository contains the implementation for a color planning system that mod
 ## 📘 Overview
 
 This project explores how perceptual attributes of color relate to human emotional responses. A set of regression models are used to predict semantic emotion values based on color appearance attributes such as lightness, chroma, and hue structure.
+
+## 📄 Project Paper
+
+You can find the project paper in the [`paper/`](paper/) folder or download it directly [here](paper/Paper_WJ.pdf).

@@ -2,9 +2,9 @@
 
 This repository contains the implementation for a color planning system that models color–emotion associations using color appearance attributes. 
 
-## 📘 Overview
+## 📘 Abstract
 
-This project explores how perceptual attributes of color relate to human emotional responses. A set of regression models are used to predict semantic emotion values based on color appearance attributes such as lightness, chroma, and hue structure.
+“Why do users prefer a certain color for the product?” This paper introduces a Color Planning System that maps and models the relationship between color and emotion to enhance user preference in product design. By visualizing these associations, the system helps designers connect color and emotion relationships to user preferences. Instead of directly predicting color preference, which can make it difficult to identify influencing factors, the system provides a structured map and set of models that reveal how emotions associated with color influence user preference. This approach supports more informed and intuitive decisions in the design process.
 
 ## 📄 Project Paper
 
